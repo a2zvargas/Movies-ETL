@@ -3,6 +3,14 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore these large files
+ratings.csv
+credits.csv
+keywords.csv
+ratings_small.csv
+links.csv
+links_small.csv
+
 # C extensions
 *.so
 
